@@ -6,9 +6,10 @@ The manual equivalent of this script is opening
 
 Properties:
 - Creates "Path" if not existing already
-- Adds folder-paths to Path variable of your User, not System wide
+- Adds folder-paths to Path variable of your user, not system-wide
 - No duplicates when adding
-- Supports Multi-Selection
+- Supports multi-selection
+- Doesn't need admin rights
 - Optional console output about actions
 
 Variants:
