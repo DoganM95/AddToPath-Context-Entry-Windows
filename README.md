@@ -1,9 +1,14 @@
-This project will add an "Add To Path" option to your Windows 10 right-click context menu without installing any third party software.
-The Path Variable this script is adding your folde-paths to, is only for your User, not System wide. 
-Selecting multiple folders and executing this right click function will add all folders of your selection to path.
+## This project will add an "Add To Path" option to your Windows 10 right-click context menu without installing any third party software.
 
 The Manual Equivalent of this script is Opening 
 "System Properties" -> "Environment Variables" -> "User variables for <Username>" -> ...
+
+Properties:
+- Creates "Path" if not existing already
+- Adds folder-paths to Path variable of your User, not System wide
+- No duplicates when adding
+- Supports Multi-Selection
+- Optional console output about actions
 
 Variants:
  - Silent: Adding a folder happens silently (a powershell windows pops up very quick but closes immediately)
