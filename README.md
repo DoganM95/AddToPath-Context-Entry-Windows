@@ -1,9 +1,9 @@
-The downloadable .reg files in "release" tab will add an "Add To Path (User)" option, any folder you use this on gets added to Path.
+This project will add a "Add To Path" option to your Windows 10 right-click context menu without installing any third party software.
+The Path Variable this script is adding your folder to, is only for your User, not System wide.
 
 The Manual Equivalent of this script is Opening 
 "System Properties" -> "Environment Variables" -> "User variables for <Username>" -> ...
-  
-#### No programs or third party tools are involved in this, just a regEdit Option containing a powershell script.
+ 
 
 Variants:
  - Silent: Adding a folder happens silently (a powershell windows pops up very quick but closes immediately)
