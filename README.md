@@ -1,7 +1,7 @@
 ## This project will add an "Add To Path" option to your Windows 10 right-click context menu without installing any third party software.
 
-The Manual Equivalent of this script is Opening 
-"System Properties" -> "Environment Variables" -> "User variables for <Username>" -> ...
+The manual equivalent of this script is opening  
+"Control Panel" -> "System and Security" -> "System" -> "Advanced system settings" -> "Advanced" -> "Environment Variables" -> "User variables for <Username>" -> ...
 
 Properties:
 - Creates "Path" if not existing already
