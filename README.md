@@ -17,4 +17,4 @@ Variants:
  - Normal: Adding a folder gives you a text Output of what happened and which Folder was added 
  
  Preview: 
- https://media.giphy.com/media/jqwVXvBvo4p3Pqe4WD/giphy.gif
+ [AddToPath GIF Image](Preview.gif)
