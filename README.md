@@ -11,6 +11,7 @@ Properties:
 - Supports multi-selection
 - Doesn't need admin rights
 - Optional console output about actions
+- Also works with network locations (testeed on SMB, e.g. \\NasServer\some_dir)
 
 Variants:
  - Silent: Adding a folder happens silently (a powershell windows pops up very quick but closes immediately)
