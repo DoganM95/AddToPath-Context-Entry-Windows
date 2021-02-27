@@ -1,6 +1,7 @@
-### This script addan "Add To Path" conect-entry to the Win 10 right-click menu without installing any third party software or resources.
+# AddToPath Win 10
+Adds an "Add To Path" context-menu entry without installing any third party software or resources.
 
-The manual equivalent of this script is opening  
+### Manual equivalent
 "Control Panel" -> "System and Security" -> "System" -> "Advanced system settings" -> "Advanced" -> "Environment Variables" -> "User variables for \<Username\>" -> Double click on "Path" or create new "Path" -> Add folder paths of executables you want to be able to access fromn anywhere
 
 ### Properties:
