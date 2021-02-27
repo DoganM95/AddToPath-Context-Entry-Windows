@@ -17,5 +17,5 @@ Adds an "Add To Path" context-menu entry without installing any third party soft
  - Silent: Adding a folder happens silently (a powershell windows pops up very quick but closes immediately)
  - Normal: Adding a folder gives you a text Output of what happened and which Folder was added 
  
- Preview: 
- [AddToPath GIF Image](Preview.gif)
+### Preview: 
+[AddToPath GIF Image](Preview.gif)
