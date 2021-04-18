@@ -18,4 +18,4 @@ Adds an "Add To Path" context-menu entry without installing any third party soft
  - Normal: Adding a folder gives you a text Output of what happened and which Folder was added 
  
 ### Preview: 
-[AddToPath GIF Image](Preview.gif)
+![Alt Text](Preview.gif)
